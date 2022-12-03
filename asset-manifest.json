@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/horoscopo/static/css/main.5ddb0ca1.css",
+    "main.js": "/horoscopo/static/js/main.09a1c6f1.js",
+    "static/media/risa.gif": "/horoscopo/static/media/risa.aa71b381cf0a0d8b3263.gif",
+    "static/media/wtf.jpg": "/horoscopo/static/media/wtf.94224f3c8ed00ae48c6a.jpg",
+    "static/media/acuario.svg": "/horoscopo/static/media/acuario.f8285c1840c415d6184dad8674c7b39e.svg",
+    "static/media/virgo.svg": "/horoscopo/static/media/virgo.dda0d8663f9ab46a2d4918cb8cc69637.svg",
+    "static/media/escorpio.svg": "/horoscopo/static/media/escorpio.3dac41ff2af075930d5cc584dfeb192d.svg",
+    "static/media/aries.svg": "/horoscopo/static/media/aries.d481a07dc1630423353a102edfa83dd4.svg",
+    "static/media/capricornio.svg": "/horoscopo/static/media/capricornio.7547ef7ebe6eff7592035bc157185454.svg",
+    "static/media/cancer.svg": "/horoscopo/static/media/cancer.231a444c888cbe65c80625d1e8d34654.svg",
+    "static/media/geminis.svg": "/horoscopo/static/media/geminis.0ce75c5878dc3af18f14f88237d9418e.svg",
+    "static/media/leo.svg": "/horoscopo/static/media/leo.f703a902960f49db21fe5b3d7b6dd6c8.svg",
+    "static/media/piscis.svg": "/horoscopo/static/media/piscis.f7de3b5eb228cbb9df912e792e4a885e.svg",
+    "static/media/libra.svg": "/horoscopo/static/media/libra.3eb442db762b6fcbbf6a00355d709372.svg",
+    "static/media/sagitario.svg": "/horoscopo/static/media/sagitario.3608d99a757b009628b2e40e36f40221.svg",
+    "static/media/tauro.svg": "/horoscopo/static/media/tauro.410c54362f4373e50f93f5f5c42dea04.svg",
+    "index.html": "/horoscopo/index.html",
+    "main.5ddb0ca1.css.map": "/horoscopo/static/css/main.5ddb0ca1.css.map",
+    "main.09a1c6f1.js.map": "/horoscopo/static/js/main.09a1c6f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ddb0ca1.css",
+    "static/js/main.09a1c6f1.js"
+  ]
+}
